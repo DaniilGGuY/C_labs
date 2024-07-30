@@ -1,0 +1,1 @@
+./app.exe m func_tests/data/pos_06_in_a.txt func_tests/data/pos_06_in_b.txt out/res.txt

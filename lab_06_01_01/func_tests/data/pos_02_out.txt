@@ -1,0 +1,6 @@
+goodbye
+cba
+2
+hello
+abc
+1

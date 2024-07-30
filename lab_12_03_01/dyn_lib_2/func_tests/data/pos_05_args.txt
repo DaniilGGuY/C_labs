@@ -1,0 +1,1 @@
+./my_lib.so func_tests/data/pos_05_in.txt out/pos_05_out.txt

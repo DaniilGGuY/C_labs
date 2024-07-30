@@ -1,0 +1,1 @@
+./app.exe o a.txt b.txt res.txt

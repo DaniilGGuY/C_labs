@@ -1,0 +1,1 @@
+./my_lib.so func_tests/data/neg_02_in.txt out/neg_02_out.txt

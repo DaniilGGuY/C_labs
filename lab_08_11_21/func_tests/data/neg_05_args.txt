@@ -1,0 +1,1 @@
+./app.exe a func_tests/data/neg_05_in_a.txt func_tests/data/neg_05_in_b.txt out/res.txt
